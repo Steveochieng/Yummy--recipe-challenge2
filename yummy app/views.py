@@ -8,17 +8,13 @@ from app import app
 def index():
     return render_template("index.html")
 
-@app.route('/ForgotPassword')
-def about():
-    return render_template("ForgotPassword.html")
-
 @app.route('/Categories')
 def Categories():
     return render_template("Categories.html")
 
-@app.route('/UserRegistration')
+@app.route('/index.html')
 def UserRegistration():
-    return render_template("UserRegistration.html")
+    return render_template("index.html")
 
 
     
