@@ -1,5 +1,4 @@
 
-[![Build Status](https://travis-ci.org/Steveochieng/Yummy--recipe-challenge2.svg?branch=master)](https://travis-ci.org/Steveochieng/Yummy--recipe-challenge2) [![Coverage Status](https://coveralls.io/repos/github/Steveochieng/Yummy--recipe-challenge2/badge.svg?branch=develop)](https://coveralls.io/github/Steveochieng/Yummy--recipe-challenge2?branch=master)
 
 # Yummy Recipe
 Store your favourite recipes
