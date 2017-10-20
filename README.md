@@ -1,5 +1,4 @@
-[![Build Status](https://travis-ci.org/Steveochieng/Yummy--recipe-challenge2.svg?branch=master)](https://travis-ci.org/Steveochieng/Yummy--recipe-challenge2)
-
+[![Build Status](https://travis-ci.org/Steveochieng/Yummy--recipe-challenge2.svg?branch=master)](https://travis-ci.org/Steveochieng/Yummy--recipe-challenge2)[![Coverage Status](https://coveralls.io/repos/github/Steveochieng/Yummy--recipe-challenge2/badge.svg?branch=master)](https://coveralls.io/github/Steveochieng/Yummy--recipe-challenge2?branch=master)
 Store your favourite recipes
 
 ## Introduction:
@@ -14,4 +13,5 @@ This is an application to manage your awesome recipes that you've collected or h
 * BOOTSTRAP
 * CSS3
 * PYTHON
+* FLASK
 
