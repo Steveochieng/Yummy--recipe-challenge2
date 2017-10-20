@@ -13,4 +13,5 @@ This is an application to manage your awesome recipes that you've collected or h
 * BOOTSTRAP
 * CSS3
 * PYTHON
+* FLASK
 
