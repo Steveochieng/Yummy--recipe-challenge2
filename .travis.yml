@@ -1,2 +1,6 @@
 language: python
 os: windows
+# command to install dependencies
+install:
+  - pip install .
+  - pip install -r requirements.txt
